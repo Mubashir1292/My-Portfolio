@@ -37,7 +37,7 @@ const Contact = () => {
             <h5>Mubashir Liaqat</h5>
             <a
               href="https://m.me/profile.php?id=100085735734158"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Send a message
             </a>
@@ -49,6 +49,7 @@ const Contact = () => {
             <a
               href="https://api.whatsapp.com/send?phone+923059055087"
               target="_blank"
+              rel="noreferrer"
             >
               Send a message
             </a>
